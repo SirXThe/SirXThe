@@ -11,7 +11,7 @@ self.name = "XThe";
 self.pronoun = "he/him";
 self.skills = "Python, HTML, CSS";
 self.discord = "XThe#4695";
-self.website = "https://sirxthe.github.io";
+self.website = "https://xthe.me";
 
 def __str__(self):
 return self.name
